@@ -1,2 +1,4 @@
 # hello-world
-Just a repository
+Hi Mana!
+
+What's up today?
